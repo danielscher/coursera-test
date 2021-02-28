@@ -1,0 +1,25 @@
+.navbar-brand h1{
+	position:absolute;
+	left:0px;
+	top:0px;
+	margin: 10px 0px 15px 15px;
+	color:black;
+	font-family: 'Bad Script', cursive;
+}
+li {
+	text-align: center;
+	font-size: 1.2em;
+}
+li:hover{
+	background:#bababa ;
+}
+
+div .container {
+	text-align: center;
+	background: #bababa;
+	margin-bottom: 35px;
+}
+.item {
+	font-size: 1.3em;
+	padding: 10px 0 5px;
+}
